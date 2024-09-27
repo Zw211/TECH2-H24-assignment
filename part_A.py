@@ -57,8 +57,6 @@ def std_builtin(x):
     sd : float
         Standard deviation of the list of numbers.
     """
-
-    # parameters
     N = len(x) 
     sum_x = sum(x)
     sum_x_sqrd = sum(e*e for e in x)
