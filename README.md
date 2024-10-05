@@ -1,5 +1,5 @@
 # Note
-Conclusion can be found in conclusion.md
+Conclusion can be found in [conclusion.md](conclusion.md).
 
 # TECH2 mandatory assignment
 
