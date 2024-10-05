@@ -1,3 +1,6 @@
+# Note
+Conclusion can be found in conclusion.md
+
 # TECH2 mandatory assignment
 
 The assignment is given in the in the PDF file [assignment.pdf](assignment.pdf).
