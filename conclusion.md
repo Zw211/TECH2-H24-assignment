@@ -1,8 +1,8 @@
 # Conclusion
 
 After timing all three functions on three different datasets, It is visible that the
-**builtin python functions** are most efficient for 100,000 and 10,000 loops. 
-**NumPy method** is the fastest for 1,000 loops. The for loop performed the worst at 1,000 loops at 1.14ms
+**builtin python functions** are most efficient for the column with the least rows.
+**NumPy method** is the fastest for the largest dataset. The for loop performed the worst for the biggest column loops at 1.14ms
 
 > #### Times:
 >
